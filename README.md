@@ -1,11 +1,19 @@
-# Customer FAQ Templates
+# Customer FAQ Templates — Start here
 
-Ready-to-adapt FAQ copy for digital product sellers (Gumroad, Etsy, Stripe-gated downloads).
+Copy-paste **FAQ answers** for digital download sellers.
 
 ## Files
 
-- `FAQ.md` — full FAQ pack
-- `LICENSE` — MIT
+| File | Purpose |
+|------|---------|
+| `FAQ.md` | Delivery, compatibility, refunds, license, support |
+| `listing-gumroad.md` | Seller listing draft |
+| `LICENSE` | MIT |
+
+## Quick start
+
+1. Replace `[BRACKET]` placeholders with your platform, SLA, and policy links.
+2. Paste into Gumroad/Etsy description or a help page.
 
 ## License
 
