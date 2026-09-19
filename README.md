@@ -1,2 +1,12 @@
-# customer-faq-templates
-FAQ copy templates for digital product sellers.
+# Customer FAQ Templates
+
+Ready-to-adapt FAQ copy for digital product sellers (Gumroad, Etsy, Stripe-gated downloads).
+
+## Files
+
+- `FAQ.md` — full FAQ pack
+- `LICENSE` — MIT
+
+## License
+
+MIT
